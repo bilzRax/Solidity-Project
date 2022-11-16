@@ -1,2 +1,5 @@
 # Solidity-Project
 Blockchain-Based Tamper-Proof Nursing Home Management System
+----------------------------------------------------------------------
+In this project we propose a blockchain based tamper-proof nursing home management system to tackle the problem of overcharging faced by patients. There are many such cases where the patients after their discharge are billed for tests, medicines and services which they have not availed. And it is very difficult to dispute against the authenticity of the bill without having any records of all the tests, medicines and services availed and approved by the patient. The proposed system can be used to manage a secure record of the medical-activities made for and by the patient. The proposed system records the medicines and tests prescribed by the doctor, the number of doctor’s visits, lab tests, medicines sent by the pharmacy and daily medicine intake of the patient. All these records play an important role in keeping the medical institutions from adding any fake medical activity to inflate the bill. We have developed a web application for making user interactions with the blockchain
+easier and more convenient.
